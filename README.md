@@ -1,4 +1,7 @@
 # vuehr
+人事管理系统的前端部分 
+
+基于Vue+elementui实现
 
 ## Project setup
 ```
